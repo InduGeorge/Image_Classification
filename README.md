@@ -1,5 +1,8 @@
 # Image_Classification
 
+## Dataset
+The dataset used for training and validation is located in the Dataset_Celebrities directory. It contains images of celebrities, categorized into different classes.
+
 ## Model Architecture
 The implemented image classification model follows the LeNet-5 architecture, a classic convolutional neural network (CNN) designed for handwritten and machine-printed character recognition. The model is structured as follows:
 
