@@ -26,7 +26,7 @@ Metrics: Accuracy.
 Training
 The model is trained using the specified data generators (train_generator and validation_generator). The training is performed for 10 epochs, with the Adam optimizer, categorical crossentropy loss, and accuracy as the evaluation metric.
 
-Prediction
+### Prediction
 After training, the model makes predictions on the validation set. The one-hot encoded predictions are decoded to class labels, and the accuracy is printed.
 
 Sample Image Prediction
